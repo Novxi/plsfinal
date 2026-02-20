@@ -11,6 +11,7 @@ const __dirname = path.dirname(__filename);
 
 const app = express();
 const PORT = process.env.PORT || 5001;
+app.listen(PORT, () => console.log("started", PORT));
 
 // Trust Proxy: Render load balancer'ı arkasında doğru protokolü (https) almak için
 app.set('trust proxy', 1);
