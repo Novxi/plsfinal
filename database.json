@@ -1,0 +1,68 @@
+{
+  "leads": [
+    {
+      "propertyType": "home",
+      "roofArea": 197,
+      "monthlyBill": 6000,
+      "city": "Adana",
+      "district": "Yüreğir",
+      "fullName": "Mert Kaya",
+      "email": "106077az@gmail.com",
+      "phone": "05464435193",
+      "buildingSubtype": "detached",
+      "shading": "none",
+      "wantsStorage": true,
+      "hasEV": true,
+      "usesHeatPump": true,
+      "connectionType": "lv",
+      "shiftCount": "1",
+      "landOwnership": "yes",
+      "hasCallLetter": "no",
+      "status": "new",
+      "source": "web",
+      "calculatedNeededKw": 21,
+      "recommendedKw": 21,
+      "calculatedMaxKw": 23.64,
+      "id": "L-1771496546387",
+      "createdAt": "2026-02-19T10:22:26.387Z"
+    }
+  ],
+  "messages": [
+    {
+      "name": "MERT",
+      "email": "ASD",
+      "phone": "KAYA",
+      "department": "Satış",
+      "message": "ASDASD",
+      "isRead": false,
+      "id": "M-1771511741548",
+      "createdAt": "2026-02-19T14:35:41.548Z"
+    },
+    {
+      "name": "mert",
+      "email": "adsfadf",
+      "phone": "dsfsdf",
+      "department": "Satış",
+      "message": "test123123",
+      "isRead": false,
+      "id": "M-1771496478975",
+      "createdAt": "2026-02-19T10:21:18.975Z"
+    }
+  ],
+  "gallery": [
+    {
+      "title": "asd ges",
+      "category": "Ticari GES",
+      "city": "asd",
+      "description": "",
+      "systemPower": "24 kWp",
+      "panelType": "",
+      "hasStorage": false,
+      "inverterPower": "",
+      "tags": [],
+      "imageUrl": "http://localhost:5001/uploads/1771511413099-107436344.jpeg",
+      "date": "2026-02-19",
+      "id": "gal-1771511413106"
+    }
+  ]
+}
